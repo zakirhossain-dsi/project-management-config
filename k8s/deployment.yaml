@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: product-management
-          image: docker.io/hellozakir/product-management:0fbe47a1
+          image: docker.io/hellozakir/product-management:ca27953e
           ports:
             - containerPort: 8080
               protocol: TCP
